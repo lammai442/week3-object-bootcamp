@@ -78,8 +78,6 @@ console.log(fruits); // ['Apple', 'Banana', 'Cherry']
 
 */
 
-
-
 // STRINGS
 /* EXTRA
 Strings
@@ -205,7 +203,6 @@ console.log(resultat); // Skriver ut "Frontend"
 let resultatNegativt = text.slice(-10); // Tar de sista 10 tecknen
 console.log(resultatNegativt); // Skriver ut "utveckling"
 */
-
 
 // LOOPAR
 /* 
